@@ -1,0 +1,11 @@
+﻿  game.cpp
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(52): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(53): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(54): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(55): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(171): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(173): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(175): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+c:\users\joe\desktop\c++\breakout\breakout\game.cpp(177): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+  breakout.vcxproj -> C:\Users\Joe\Desktop\C++\breakout\Debug\breakout.exe
+  breakout.vcxproj -> C:\Users\Joe\Desktop\C++\breakout\Debug\breakout.pdb (Full PDB)
